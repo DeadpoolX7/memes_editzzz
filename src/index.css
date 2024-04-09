@@ -1,0 +1,12 @@
+.App {
+    text-align: center; /* Center the h1 */
+    margin-bottom: 20px; /* Add some margin at the bottom */
+  }
+  
+  .content {
+    padding: 20px; /* Add padding to create space around the content */
+  }
+body{
+
+    font-family: cursive;
+}
